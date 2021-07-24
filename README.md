@@ -6,4 +6,4 @@ https://literaturelibre.cobweb-aclevo.org
 
 Adam Salt - Cob:web-Aclevo Director & Website maintainer
 
-### Please join the Cob:web Development discord to talk to us and contribute to our projects: https://discord.gg/9F3vtTbmr7
+### Please join the Cob:web-Aclevo discord to talk to us and contribute to our projects: https://discord.gg/z3GXvGtuek
