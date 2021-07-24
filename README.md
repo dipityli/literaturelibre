@@ -2,7 +2,7 @@
 LiteratureLibre is an open source library of written stories, poems and literature!
 https://literaturelibre.cobweb-aclevo.org
 
-# Made with love by Cob:web Development and our Open source contributors:
+# Made with love by Cob:web-Aclevo and our Open source contributors:
 
 Adam Salt - Cob:web-Aclevo Director & Website maintainer
 
