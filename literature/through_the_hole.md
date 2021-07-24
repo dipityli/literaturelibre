@@ -4,7 +4,7 @@
 
 <center>
 <h2>
-<a href="https://litlibre.cobweb-aclevo.org">Home</a> |
+<a href="https://literaturelibre.cobweb-aclevo.org">Home</a> |
 <a href="https://discord.gg/z3GXvGtuek">Discord</a> |
 <a href="https://cobweb-aclevo.org">Cob:web-Aclevo</a>
 </h2>
