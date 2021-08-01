@@ -10,6 +10,7 @@ def home():
 @app.route('/submit')
 def submit():
     return render_template('submit.html')
+    
 @app.route('/about')
 def about():
     return render_template('about-us.html') 
