@@ -30,7 +30,7 @@ div {
 }
 
 .right {
-  text-align: right;
+  float:right;
 }
 
 .content {
