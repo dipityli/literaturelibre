@@ -2,8 +2,16 @@
   transition:0.6s;  
 }
 
+html {
+  min-height: 100%;
+  background-image: linear-gradient(to bottom right, #578CC7, rgb(124, 102, 231));
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 body {
-    background-color: rgb(124, 102, 231);
+    /*background-color: rgb(124, 102, 231);*/
     margin-left:20vw;
     margin-right:20vw;
     margin-top:10vw;
