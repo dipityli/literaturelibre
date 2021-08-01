@@ -29,6 +29,10 @@ div {
     color: rgb(29, 23, 23);
 }
 
+.right {
+  text-align: right;
+}
+
 .content {
     font-size: 20px;
     color: rgb(29, 23, 23);
