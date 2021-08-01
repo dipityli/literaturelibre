@@ -29,6 +29,8 @@ def apology(message, code=400):
         return s
     return render_template("apology.html", top=code, bottom=escape(message)), code
 
+db = SQL("sqlite:///database.db")
+
 @app.route('/')
 def home():
     return render_template('index.html')
